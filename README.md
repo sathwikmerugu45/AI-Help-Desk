@@ -372,7 +372,7 @@ ISC License - See LICENSE file for details
 ## 💬 Support
 
 For questions or issues:
-- 📧 Email: sathwikmerugu45@example.com
+- 📧 Email: sathwikmerugu69@gmail.com
 - 🐛 GitHub Issues: [Create an issue](https://github.com/sathwikmerugu45/AI-Help-Desk/issues)
 - 💭 Discussions: [Start a discussion](https://github.com/sathwikmerugu45/AI-Help-Desk/discussions)
 
